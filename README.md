@@ -6,12 +6,8 @@ We are powerful members of Team Leia that is searching for Baby Yoda on the Gala
 
 ![alt text](https://user-images.githubusercontent.com/52428972/115845615-501ebd80-a421-11eb-9ab5-3b2db794fce5.png)
 
-
-
-
-## P
-Getting Started
-Our collaborator team includes Nurlan_Sarkhanov, Udawala_Hewage_Dil, Joshua Batt, and Thanh Nguyen. Here below is our tasks and challenges that need to be achieved within a day:
+## Getting Started
+Our collaborator team works on these tasks and challenges that need to be achieved to achieve the goals of project Baby Yoda as a part of AI Engineer batch at Strive School.
 - We think there are 3 different galaxies in our cluster of data find them and map them.
 - Generate a map only of the uppermost galaxy
 - we think BeBe Yoda is in the rightmost planet of this galaxy. Plot the highlighted planet on the original data
@@ -21,7 +17,6 @@ Our collaborator team includes Nurlan_Sarkhanov, Udawala_Hewage_Dil, Joshua Batt
 - Deliver the force coordinates to high command. 
 
 ## Prerequsites
-
 | Tools | LINKS|
 | ------ | ------ |
 | Deepnote | [https://deepnote.com/[PlDb] |
@@ -33,17 +28,24 @@ Our collaborator team includes Nurlan_Sarkhanov, Udawala_Hewage_Dil, Joshua Batt
 Python ver. 3.8
 
 ## Author
-Authors
-- Nurlan_Sarkhanov - Initial work - Streamlit
-- Udawala_Hewage_Dil
-- Joshua Batt - Coding
-- Thanh Nguyen - Github
+| Contributors | Tasks | LINKEDIN|
+| ------ | ------ | ------ |
+| Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/][PlGh] |
+| Udawala_Hewage_Dil | Deepnote coding | [https://www.linkedin.com/in/kanishka-dilan-udawala-hewage-a1176120a/][PlGh] |
+| Joshua Batt | Deepnote coding | [][PlGh] |
+| Thanh Nguyen | Github readme | [https://www.linkedin.com/in/nguyenphuocxuanthanh/[PlGh] |
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
 MIT
+
 ## Acknowledgements
-https://dillinger.io/
+| Supporting Resoures | LINKS|
+| ------ | ------ |
+| Markdown | [https://dillinger.io/][PlGh] |
+| Strive School | [https://strive.school/][PlGh] |
+
+
+
 
 

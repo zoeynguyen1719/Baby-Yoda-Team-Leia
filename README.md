@@ -27,7 +27,7 @@ Our collaborator team works on these tasks and challenges that need to be achiev
 ## Installation Tools
 | Tools | LINKS|
 | ------ | ------ |
-| Deepnote | [https://deepnote.com/ |
+| Deepnote | [https://deepnote.com/] |
 | GitHub | [https://github.com/] |
 | Jupiter Notebook | [https://jupyter.org/] |
 | Stramlit | [https://streamlit.io/] |

@@ -40,7 +40,7 @@ Python ver. 3.8
 | ------ | ------ | ------ |
 | Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/][PlGh] |
 | Udawala_Hewage_Dil | Deepnote coding | [https://www.linkedin.com/in/kanishka-dilan-udawala-hewage-a1176120a/][PlGh] |
-| Joshua Batt | Deepnote coding | [][PlGh] |
+| Joshua Batt | Deepnote coding | [https://www.linkedin.com/in/joshua-batt-5797a51b5/][PlGh] |
 | Thanh Nguyen | Github readme | [https://www.linkedin.com/in/nguyenphuocxuanthanh/[PlGh] |
 
 ## License

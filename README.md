@@ -6,6 +6,14 @@ We are powerful members of Team Leia that is searching for Baby Yoda on the Gala
 
 ![alt text](https://user-images.githubusercontent.com/52428972/115845615-501ebd80-a421-11eb-9ab5-3b2db794fce5.png)
 
+## Table of Contents
+- Getting Started
+- Installation Tools
+- Versions
+- Contributors
+- License
+- Acknowledgements
+
 ## Getting Started
 Our collaborator team works on these tasks and challenges that need to be achieved to achieve the goals of project Baby Yoda as a part of AI Engineer batch at Strive School.
 - We think there are 3 different galaxies in our cluster of data find them and map them.
@@ -16,7 +24,7 @@ Our collaborator team works on these tasks and challenges that need to be achiev
 - Find BeBe Yoda in the closest point to the gravitational center of the two principal components of the force. Highlight in a map the gravitational center and the closest point.
 - Deliver the force coordinates to high command. 
 
-## Prerequsites
+## Installation Tools
 | Tools | LINKS|
 | ------ | ------ |
 | Deepnote | [https://deepnote.com/[PlDb] |
@@ -27,7 +35,7 @@ Our collaborator team works on these tasks and challenges that need to be achiev
 ## Version
 Python ver. 3.8
 
-## Author
+## Contributors
 | Contributors | Tasks | LINKEDIN|
 | ------ | ------ | ------ |
 | Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/][PlGh] |

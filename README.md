@@ -27,10 +27,10 @@ Our collaborator team works on these tasks and challenges that need to be achiev
 ## Installation Tools
 | Tools | LINKS|
 | ------ | ------ |
-| Deepnote | [https://deepnote.com/[PlDb] |
-| GitHub | [https://github.com/][PlGh] |
-| Jupiter Notebook | [https://jupyter.org/][PlGd] |
-| Stramlit | [https://streamlit.io/][PlMe] |
+| Deepnote | [https://deepnote.com/ |
+| GitHub | [https://github.com/] |
+| Jupiter Notebook | [https://jupyter.org/] |
+| Stramlit | [https://streamlit.io/] |
 
 ## Version
 Python ver. 3.8
@@ -38,10 +38,10 @@ Python ver. 3.8
 ## Contributors
 | Contributors | Tasks | LINKEDIN|
 | ------ | ------ | ------ |
-| Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/][PlGh] |
-| Udawala_Hewage_Dil | Deepnote coding | [https://www.linkedin.com/in/kanishka-dilan-udawala-hewage-a1176120a/][PlGh] |
-| Joshua Batt | Deepnote coding | [https://www.linkedin.com/in/joshua-batt-5797a51b5/][PlGh] |
-| Thanh Nguyen | Github readme | [https://www.linkedin.com/in/nguyenphuocxuanthanh/[PlGh] |
+| Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/]|
+| Udawala_Hewage_Dil | Deepnote coding | [https://www.linkedin.com/in/kanishka-dilan-udawala-hewage-a1176120a/] |
+| Joshua Batt | Deepnote coding | [https://www.linkedin.com/in/joshua-batt-5797a51b5/] |
+| Thanh Nguyen | Github readme | [https://www.linkedin.com/in/nguyenphuocxuanthanh/ |
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
@@ -50,8 +50,8 @@ MIT
 ## Acknowledgements
 | Supporting Resoures | LINKS|
 | ------ | ------ |
-| Markdown | [https://dillinger.io/][PlGh] |
-| Strive School | [https://strive.school/][PlGh] |
+| Markdown | [https://dillinger.io/] |
+| Strive School | [https://strive.school/] |
 
 
 

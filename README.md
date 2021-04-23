@@ -9,7 +9,7 @@ We are powerful members of Team Leia that is searching for Baby Yoda on the Gala
 
 
 
-
+## P
 Getting Started
 Our collaborator team includes Nurlan_Sarkhanov, Udawala_Hewage_Dil, Joshua Batt, and Thanh Nguyen. Here below is our tasks and challenges that need to be achieved within a day:
 - We think there are 3 different galaxies in our cluster of data find them and map them.
@@ -20,7 +20,6 @@ Our collaborator team includes Nurlan_Sarkhanov, Udawala_Hewage_Dil, Joshua Batt
 - Find BeBe Yoda in the closest point to the gravitational center of the two principal components of the force. Highlight in a map the gravitational center and the closest point.
 - Deliver the force coordinates to high command. 
 
-Prerequisites
 ## Prerequsites
 
 | Tools | LINKS|
@@ -30,25 +29,21 @@ Prerequisites
 | Jupiter Notebook | [https://jupyter.org/][PlGd] |
 | Stramlit | [https://streamlit.io/][PlMe] |
 
-
-What things you need to install the software and how to install them
-
-
-Versioning
+## Version
 Python ver. 3.8
 
+## Author
 Authors
-> Nurlan_Sarkhanov - Initial work - Streamlit
-> Udawala_Hewage_Dil 
-> Joshua Batt - Coding
-> Thanh Nguyen - Github
+- Nurlan_Sarkhanov - Initial work - Streamlit
+- Udawala_Hewage_Dil
+- Joshua Batt - Coding
+- Thanh Nguyen - Github
 
-
-
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
+MIT
+## Acknowledgements
 https://dillinger.io/
 
 
